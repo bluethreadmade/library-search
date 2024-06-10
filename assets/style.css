@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.mainForm {
+    display: flex;
+    border: solid, 1px, red;
+     
+}
